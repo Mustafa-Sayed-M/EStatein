@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "fa-solid fa-star",
+        "title": "Trust",
+        "description": "Trust is the cornerstone of every successful real estate transaction."
+    },
+    {
+        "id": 2,
+        "icon": "fa-solid fa-award",
+        "title": "Excellence",
+        "description": "We set the bar high for ourselves, from the properties we list to the services we provide."
+    },
+    {
+        "id": 3,
+        "icon": "fa-solid fa-users",
+        "title": "Client-Centric",
+        "description": "Your dreams and needs are at the center of our universe. We listen, understand."
+    },
+    {
+        "id": 4,
+        "icon": "fa-solid fa-handshake",
+        "title": "Our Commitment",
+        "description": "We are dedicated to providing you with the highest level of service, professionalism, and support."
+    }
+]

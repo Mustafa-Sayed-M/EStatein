@@ -1,0 +1,317 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Seaside Serenity Villa",
+        "location": "Malibu, California",
+        "price": 1250000,
+        "datePublished": "2024-03-08",
+        "featured": true,
+        "description": "Discover your own piece of paradise with the Seaside Serenity Villa. With an open floor plan, breathtaking ocean views from every room, and direct access to a pristine sandy beach, this property is the epitome of coastal living.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "type": "Villa",
+        "area": "2,500 Square Feet",
+        "features": [
+            "Expansive oceanfront terrace for outdoor entertaining",
+            "Gourmet kitchen with top-of-the-line appliances",
+            "Private beach access for morning strolls and sunset views",
+            "Master suite with a spa-inspired bathroom and ocean-facing balcony",
+            "Private garage and ample storage space"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/properties/2.webp",
+        "title": "Metropolitan Haven",
+        "location": "New York, New York",
+        "price": 950000,
+        "datePublished": "2024-02-15",
+        "featured": true,
+        "description": "A chic and fully furnished 2-bedroom 2-bath apartment with a panoramic city view. This residence offers modern interiors and is located in the heart of Manhattan.",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "type": "Apartment",
+        "area": "1,500 Square Feet",
+        "features": [
+            "Floor-to-ceiling windows with city skyline views",
+            "Smart home integration with voice-activated lighting and temperature control",
+            "Modern kitchen with high-end stainless steel appliances",
+            "Private balcony with seating area",
+            "24/7 concierge and security service"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/properties/3.webp",
+        "title": "Rustic Retreat Cottage",
+        "location": "Aspen, Colorado",
+        "price": 980000,
+        "datePublished": "2024-01-22",
+        "featured": true,
+        "description": "A charming 3-bedroom 2-bathroom cabin in a peaceful suburban neighborhood. Surrounded by lush greenery, this cozy retreat offers a warm and inviting atmosphere for relaxation.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "type": "Cottage",
+        "area": "2,200 Square Feet",
+        "features": [
+            "Spacious wooden deck with a fire pit",
+            "Vaulted ceilings with exposed beams",
+            "Stone fireplace in the living room",
+            "Modern kitchen with rustic cabinetry",
+            "Large backyard with hiking trail access"
+        ]
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Lakeview Grand Estate",
+        "location": "Lake Tahoe, California",
+        "price": 2100000,
+        "datePublished": "2024-03-01",
+        "featured": true,
+        "description": "Enjoy breathtaking lakefront views from this grand estate featuring a luxurious open layout, high ceilings, and stunning architectural details.",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "type": "Estate",
+        "area": "4,000 Square Feet",
+        "features": [
+            "Expansive private dock with boat access",
+            "Custom-built gourmet kitchen",
+            "Floor-to-ceiling windows for maximum lake views",
+            "Home theater and entertainment room",
+            "Outdoor jacuzzi and fire pit"
+        ]
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Urban Chic Condo",
+        "location": "Chicago, Illinois",
+        "price": 890000,
+        "datePublished": "2024-02-28",
+        "featured": false,
+        "description": "A sleek and stylish condo in downtown Chicago, offering modern amenities, open-concept living spaces, and stunning city skyline views.",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "type": "Apartment",
+        "area": "1,300 Square Feet",
+        "features": [
+            "Rooftop pool with a city skyline backdrop",
+            "Fitness center and yoga studio",
+            "Modern kitchen with quartz countertops",
+            "Private balcony with seating area",
+            "24/7 doorman and secured access"
+        ]
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Desert Oasis Mansion",
+        "location": "Phoenix, Arizona",
+        "price": 1850000,
+        "datePublished": "2024-02-10",
+        "featured": false,
+        "description": "An exclusive desert oasis featuring modern architectural design, a private infinity pool, and breathtaking mountain views.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "type": "Mansion",
+        "area": "3,200 Square Feet",
+        "features": [
+            "Infinity pool with desert landscape views",
+            "Outdoor kitchen and BBQ area",
+            "Luxury spa-inspired bathrooms",
+            "Floor-to-ceiling glass walls",
+            "Smart home automation system"
+        ]
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Tropical Beachfront Bungalow",
+        "location": "Maui, Hawaii",
+        "price": 2450000,
+        "datePublished": "2024-01-29",
+        "featured": true,
+        "description": "A luxurious beachfront bungalow offering direct beach access, serene ocean views, and an open-air tropical design.",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "type": "Bungalow",
+        "area": "2,800 Square Feet",
+        "features": [
+            "Direct beach access with a private boardwalk",
+            "Expansive deck with oceanfront dining area",
+            "Thatched-roof outdoor lounge",
+            "Master suite with a private terrace",
+            "Gourmet kitchen with natural wood finishes"
+        ]
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Mountain Hideaway Lodge",
+        "location": "Denver, Colorado",
+        "price": 970000,
+        "datePublished": "2024-02-05",
+        "featured": false,
+        "description": "A secluded mountain retreat featuring a log cabin design, stone fireplaces, and breathtaking mountain views.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "type": "Lodge",
+        "area": "2,400 Square Feet",
+        "features": [
+            "Spacious outdoor deck with fire pit",
+            "Rustic wood-beamed ceilings",
+            "Floor-to-ceiling stone fireplace",
+            "Hiking and skiing access from the backyard",
+            "Modern kitchen with granite countertops"
+        ]
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Skyline Luxury Loft",
+        "location": "Los Angeles, California",
+        "price": 1750000,
+        "datePublished": "2024-03-01",
+        "featured": false,
+        "description": "Experience modern urban living in the heart of Los Angeles with the Skyline Luxury Loft. This stylish and spacious loft offers breathtaking city views, high ceilings, and premium finishes throughout.",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "type": "Loft",
+        "area": "1,800 Square Feet",
+        "features": [
+            "Floor-to-ceiling windows with panoramic city views",
+            "Open-concept living and dining area with industrial design elements",
+            "Chef's kitchen equipped with high-end stainless steel appliances",
+            "Exclusive rooftop access with lounge and BBQ area",
+            "Private parking and 24/7 security"
+        ]
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Countryside Manor",
+        "location": "Nashville, Tennessee",
+        "price": 1350000,
+        "datePublished": "2024-02-20",
+        "featured": true,
+        "description": "A charming countryside estate featuring sprawling acres of lush greenery, a wraparound porch, and an elegant traditional design perfect for a peaceful retreat.",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "type": "Manor",
+        "area": "3,500 Square Feet",
+        "features": [
+            "Expansive front and back porches with rocking chairs",
+            "Private horse stables and riding trails",
+            "Spacious chef\u2019s kitchen with a farmhouse sink",
+            "Master suite with a private sitting area",
+            "Outdoor fire pit and garden space"
+        ]
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Penthouse Paradise",
+        "location": "Miami, Florida",
+        "price": 3200000,
+        "datePublished": "2024-03-02",
+        "featured": true,
+        "description": "A luxurious penthouse located in the heart of Miami Beach, featuring breathtaking oceanfront views, a private rooftop terrace, and floor-to-ceiling glass walls.",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "type": "Penthouse",
+        "area": "4,200 Square Feet",
+        "features": [
+            "Private rooftop infinity pool",
+            "Smart home automation system",
+            "Floor-to-ceiling glass walls with panoramic views",
+            "Modern kitchen with custom marble countertops",
+            "Exclusive access to resort-style amenities"
+        ]
+    },
+    {
+        "id": 12,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Modern Suburban Home",
+        "location": "Austin, Texas",
+        "price": 850000,
+        "datePublished": "2024-02-18",
+        "featured": false,
+        "description": "A beautifully designed modern home in a quiet suburban neighborhood, offering open-concept living, high-end finishes, and energy-efficient features.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "type": "House",
+        "area": "2,000 Square Feet",
+        "features": [
+            "Spacious open-plan living and dining area",
+            "Solar panels and energy-efficient design",
+            "Large backyard with covered patio",
+            "Gourmet kitchen with quartz countertops",
+            "Two-car garage with EV charging station"
+        ]
+    },
+    {
+        "id": 13,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Coastal Cliffside Estate",
+        "location": "Big Sur, California",
+        "price": 2800000,
+        "datePublished": "2024-01-25",
+        "featured": true,
+        "description": "A stunning estate perched on the cliffs of Big Sur, offering unparalleled ocean views, modern architecture, and complete privacy for a tranquil escape.",
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "type": "Estate",
+        "area": "5,000 Square Feet",
+        "features": [
+            "Glass-walled infinity pool overlooking the ocean",
+            "Master suite with a spa-inspired bathroom and private terrace",
+            "Custom-built modern kitchen with premium appliances",
+            "Private hiking trail access",
+            "Smart home security and automation system"
+        ]
+    },
+    {
+        "id": 14,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Vintage Victorian House",
+        "location": "Charleston, South Carolina",
+        "price": 970000,
+        "datePublished": "2024-02-12",
+        "featured": false,
+        "description": "A beautifully preserved Victorian home featuring classic architecture, intricate woodwork, and a charming historic ambiance in the heart of Charleston.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "type": "House",
+        "area": "3,000 Square Feet",
+        "features": [
+            "Original hardwood floors and stained glass windows",
+            "Wraparound front porch with rocking chairs",
+            "Vintage-style clawfoot bathtubs",
+            "Formal dining room with antique chandelier",
+            "Beautifully landscaped garden with fountain"
+        ]
+    },
+    {
+        "id": 15,
+        "image": "/assets/images/properties/1.webp",
+        "title": "Luxury Mountain Chalet",
+        "location": "Aspen, Colorado",
+        "price": 2600000,
+        "datePublished": "2024-03-05",
+        "featured": true,
+        "description": "A magnificent luxury chalet nestled in the mountains of Aspen, offering breathtaking views, high-end finishes, and a warm, rustic ambiance.",
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "type": "Chalet",
+        "area": "4,800 Square Feet",
+        "features": [
+            "Massive stone fireplace in the great room",
+            "Ski-in, ski-out access to private slopes",
+            "Heated outdoor patio with fire pit and hot tub",
+            "Gourmet kitchen with custom wooden cabinetry",
+            "Fully equipped home theater and game room"
+        ]
+    }
+]

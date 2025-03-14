@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Find Your Dream Home",
+        "icon": "fa-solid fa-house"
+    },
+    {
+        "id": 2,
+        "name": "Unlock Property Value",
+        "icon": "fa-solid fa-money-bill-wave"
+    },
+    {
+        "id": 3,
+        "name": "Effortless Property Management",
+        "icon": "fa-solid fa-building"
+    },
+    {
+        "id": 4,
+        "name": "Smart Investments, Informed Decisions",
+        "icon": "fa-solid fa-house-signal"
+    }
+]

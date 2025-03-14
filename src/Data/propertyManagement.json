@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Tenant Harmony",
+        "description": "Our Tenant Management services ensure that your tenants have a smooth and relaxing vacation.",
+        "icon": "fas fa-users"
+    },
+    {
+        "id": 2,
+        "title": "Maintenance Ease",
+        "description": "Say goodbye to property maintenance headaches. We handle all aspects of property upkeep.",
+        "icon": "fas fa-tools"
+    },
+    {
+        "id": 3,
+        "title": "Financial Peace of Mind",
+        "description": "Managing property finances can be complex. Our financial experts take care of your confusion.",
+        "icon": "fas fa-coins"
+    },
+    {
+        "id": 4,
+        "title": "Legal Guardian",
+        "description": "Stay compliant with property laws and regulations effortlessly.",
+        "icon": "fas fa-balance-scale"
+    }
+]

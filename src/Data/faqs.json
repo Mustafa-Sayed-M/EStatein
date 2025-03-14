@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "How do I search for properties on Estatein?",
+        "answer": "Learn how to use our user-friendly search tools to find properties that match your criteria."
+    },
+    {
+        "id": 2,
+        "question": "What documents do I need to sell my property through Estatein?",
+        "answer": "Find out about the necessary documentation for listing your property with us."
+    },
+    {
+        "id": 3,
+        "question": "How can I contact an Estatein agent?",
+        "answer": "Discover the different ways you can get in touch with our experienced agents."
+    },
+    {
+        "id": 4,
+        "question": "What are the costs associated with buying a property?",
+        "answer": "Learn about the fees, taxes, and other costs involved in purchasing a property."
+    },
+    {
+        "id": 5,
+        "question": "Does Estatein provide mortgage assistance?",
+        "answer": "Yes! We offer guidance on mortgage options and can connect you with trusted financial advisors."
+    },
+    {
+        "id": 6,
+        "question": "How long does it take to sell a property on Estatein?",
+        "answer": "The selling timeline varies based on market conditions, but our experts work to ensure a smooth and quick process."
+    }
+]

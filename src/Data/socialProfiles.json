@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Facebook",
+        "href": "https://www.facebook.com/sh3dowone1/",
+        "icon": "fa-brands fa-facebook fa-fw"
+    },
+    {
+        "id": 2,
+        "name": "LinkedIn",
+        "href": "https://www.linkedin.com/in/sh3dowone1/",
+        "icon": "fa-brands fa-linkedin fa-fw"
+    },
+    {
+        "id": 3,
+        "name": "Twitter",
+        "href": "https://x.com/sh3dowone1",
+        "icon": "fa-brands fa-twitter fa-fw"
+    }
+]

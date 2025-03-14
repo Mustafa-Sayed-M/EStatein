@@ -1,0 +1,72 @@
+[
+    {
+        "name": "ABC Corporation",
+        "since": 1999,
+        "domain": "Commercial Real Estate",
+        "category": "Luxury Home Development",
+        "testimonial": "EStatein's expertise in finding the perfect office spaces for our expanding operations was invaluable. They truly understand our business needs."
+    },
+    {
+        "name": "GreenTech Enterprises",
+        "since": 2005,
+        "domain": "Commercial Real Estate",
+        "category": "Retail Space",
+        "testimonial": "EStatein's ability to identify prime retail locations helped us expand our brand presence. They are a trusted partner in our growth."
+    },
+    {
+        "name": "BlueWave Holdings",
+        "since": 2010,
+        "domain": "Residential Real Estate",
+        "category": "Smart Homes",
+        "testimonial": "Thanks to EStatein, we found the perfect smart home locations that cater to modern living. Highly recommended!"
+    },
+    {
+        "name": "Skyline Developers",
+        "since": 2012,
+        "domain": "Commercial Real Estate",
+        "category": "Corporate Offices",
+        "testimonial": "We trusted EStatein to find office spaces in prime locations, and they delivered beyond expectations."
+    },
+    {
+        "name": "UrbanNest Properties",
+        "since": 2018,
+        "domain": "Residential Real Estate",
+        "category": "Gated Communities",
+        "testimonial": "EStatein helped us secure properties in high-demand gated communities, ensuring safety and luxury."
+    },
+    {
+        "name": "Horizon Retail Group",
+        "since": 2015,
+        "domain": "Commercial Real Estate",
+        "category": "Shopping Centers",
+        "testimonial": "Their insights into retail real estate helped us acquire the best locations for our new malls."
+    },
+    {
+        "name": "EcoHaven Living",
+        "since": 2020,
+        "domain": "Sustainable Housing",
+        "category": "Eco-Friendly Homes",
+        "testimonial": "Finding sustainable homes that align with our values was effortless thanks to EStatein."
+    },
+    {
+        "name": "Summit Towers",
+        "since": 2008,
+        "domain": "Commercial Real Estate",
+        "category": "High-Rise Buildings",
+        "testimonial": "Our partnership with EStatein helped us acquire top-tier high-rise office buildings in metropolitan areas."
+    },
+    {
+        "name": "Golden Gate Realty",
+        "since": 2017,
+        "domain": "Luxury Real Estate",
+        "category": "Exclusive Villas",
+        "testimonial": "EStatein's team found us breathtaking villa properties that exceeded our clients' expectations."
+    },
+    {
+        "name": "Metropolitan Estates",
+        "since": 2013,
+        "domain": "Urban Real Estate",
+        "category": "Mixed-Use Developments",
+        "testimonial": "EStatein provided valuable insights into mixed-use developments, ensuring successful investment opportunities."
+    }
+]

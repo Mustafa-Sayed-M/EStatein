@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global */
+html,
+body {
+    font-family: "Urbanist", serif;
+    font-style: normal;
+}
+
+p {
+    color: #999999;
+}
+
+select:focus,
+input:focus {
+    outline: none;
+}
+
+textarea::placeholder,
+input::placeholder {
+    color: #999999;
+}
+
+section {
+    padding: 2.5rem 0;
+}

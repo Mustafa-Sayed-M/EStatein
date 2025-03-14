@@ -1,0 +1,38 @@
+[
+    {
+        "icon": "fa-solid fa-envelope",
+        "label": "Email",
+        "value": "info@seekhorizon.com",
+        "href": "mailto:info@seekhorizon.com"
+    },
+    {
+        "icon": "fa-solid fa-phone",
+        "label": "Phone",
+        "value": "+1123-456-7890",
+        "href": "tel:+11234567890"
+    },
+    {
+        "icon": "fa-solid fa-map-marker-alt",
+        "label": "Location",
+        "value": "Main Headquarters",
+        "href": "https://goo.gl/maps/example"
+    },
+    {
+        "icon": "fa-solid fa-globe",
+        "label": "Social Media",
+        "value": [
+            {
+                "platform": "Instagram",
+                "href": "https://www.instagram.com/sh3dowone1/"
+            },
+            {
+                "platform": "LinkedIn",
+                "href": "https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B89Y2ht2ZTKqPXK0HO4Tfxw%3D%3D"
+            },
+            {
+                "platform": "Facebook",
+                "href": "https://www.facebook.com/sh3dowone1/"
+            }
+        ]
+    }
+]

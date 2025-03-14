@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "content": {
+            "title": "Exceptional Service!",
+            "description": "Our experience with Estatein was outstanding. Their team's dedication and professionalism made finding our dream home a breeze. Highly recommended!"
+        },
+        "author": {
+            "avatar_path": "/assets/images/testimonials-avatars/1.webp",
+            "name": "Wade Warren",
+            "location": "USA, California"
+        }
+    },
+    {
+        "id": 2,
+        "content": {
+            "title": "Highly Satisfied!",
+            "description": "Amazing service from start to finish. The team was extremely helpful and knowledgeable. Would definitely use their services again!"
+        },
+        "author": {
+            "avatar_path": "/assets/images/testimonials-avatars/2.webp",
+            "name": "Eleanor Pena",
+            "location": "UK, London"
+        }
+    },
+    {
+        "id": 3,
+        "content": {
+            "title": "Great Experience!",
+            "description": "Estatein made the entire home-buying process seamless. I appreciated their patience and expertise throughout."
+        },
+        "author": {
+            "avatar_path": "/assets/images/testimonials-avatars/3.webp",
+            "name": "Darlene Robertson",
+            "location": "Canada, Toronto"
+        }
+    },
+    {
+        "id": 4,
+        "content": {
+            "title": "Smooth Process",
+            "description": "I never imagined buying a home could be this easy. The team handled everything with professionalism."
+        },
+        "author": {
+            "avatar_path": "/assets/images/testimonials-avatars/4.webp",
+            "name": "Ronald Richards",
+            "location": "Australia, Sydney"
+        }
+    },
+    {
+        "id": 5,
+        "content": {
+            "title": "Very Helpful!",
+            "description": "Estatein provided excellent guidance and support. Their insights into the market were invaluable."
+        },
+        "author": {
+            "avatar_path": "/assets/images/testimonials-avatars/5.webp",
+            "name": "Courtney Henry",
+            "location": "Germany, Berlin"
+        }
+    },
+    {
+        "id": 6,
+        "content": {
+            "title": "Professional Team!",
+            "description": "The agents were well-informed and responsive to all our queries. It was a pleasure working with them."
+        },
+        "author": {
+            "avatar_path": "/assets/images/testimonials-avatars/6.webp",
+            "name": "Albert Flores",
+            "location": "France, Paris"
+        }
+    }
+]

@@ -1,0 +1,88 @@
+{
+    "Home": [
+        {
+            "href": "#hero",
+            "label": "Hero Section"
+        },
+        {
+            "href": "#features",
+            "label": "Features"
+        },
+        {
+            "href": "#featured-properties",
+            "label": "Properties"
+        },
+        {
+            "href": "#testimonials",
+            "label": "Testimonials"
+        },
+        {
+            "href": "#faqs",
+            "label": "FAQs"
+        }
+    ],
+    "About Us": [
+        {
+            "href": "#story",
+            "label": "Our Story"
+        },
+        {
+            "href": "#achievements",
+            "label": "Our Achievements"
+        },
+        {
+            "href": "#how-it-works",
+            "label": "How It Works"
+        },
+        {
+            "href": "#team",
+            "label": "Our Team"
+        },
+        {
+            "href": "#clients",
+            "label": "Our Clients"
+        }
+    ],
+    "Properties": [
+        {
+            "href": "#portfolio",
+            "label": "Portfolio"
+        },
+        {
+            "href": "#categories",
+            "label": "Categories"
+        }
+    ],
+    "Services": [
+        {
+            "href": "#contact",
+            "label": "Valuation Mastery"
+        },
+        {
+            "href": "#contact",
+            "label": "Strategic Marketing"
+        },
+        {
+            "href": "#contact",
+            "label": "Negotiation Wizardry"
+        },
+        {
+            "href": "#contact",
+            "label": "Closing Success"
+        },
+        {
+            "href": "#contact",
+            "label": "Property Management"
+        }
+    ],
+    "Contact Us": [
+        {
+            "href": "#contact",
+            "label": "Contact Form"
+        },
+        {
+            "href": "#offices",
+            "label": "Our Offices"
+        }
+    ]
+}

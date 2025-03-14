@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Max Mitchell",
+        "position": "Founder",
+        "image": "/assets/images/team/1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Sarah Johnson",
+        "position": "Chief Real Estate Officer",
+        "image": "/assets/images/team/2.webp"
+    },
+    {
+        "id": 3,
+        "name": "David Brown",
+        "position": "Head of Property Management",
+        "image": "/assets/images/team/3.webp"
+    },
+    {
+        "id": 4,
+        "name": "Michael Turner",
+        "position": "Legal Counsel",
+        "image": "/assets/images/team/4.webp"
+    }
+]
